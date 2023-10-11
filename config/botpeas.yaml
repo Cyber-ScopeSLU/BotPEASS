@@ -55,6 +55,19 @@ DESCRIPTION_KEYWORDS_I:
 - docker
 - kubernetes
 - " lxc "
+- "nessus"
+- "azure"
+- "entraid"
+- "aws "
+- "servicenow"
+- "keeper"
+- "wazuh"
+- "thehive "
+- "splunk "
+- "microsoft "
+- "okta "
+- "Palo Alto "
+- "haproxy"
 
 DESCRIPTION_KEYWORDS:
 - User Account Control
